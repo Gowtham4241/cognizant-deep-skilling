@@ -1,0 +1,6 @@
+INSERT INTO Accounts VALUES (101, 'Rahul', 20000);
+INSERT INTO Accounts VALUES (102, 'Priya', 15000);
+INSERT INTO Accounts VALUES (103, 'Amit', 10000);
+INSERT INTO Accounts VALUES (104, 'Sneha', 25000);
+
+COMMIT;
