@@ -1,2 +1,6 @@
 *.orig
 *.bak
+hello_BACKUP_*.xml
+hello_BASE_*.xml
+hello_LOCAL_*.xml
+hello_REMOTE_*.xml
